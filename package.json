@@ -1,0 +1,30 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "bower": "^1.8.0",
+    "mongoose": "^4.11.3",
+    "moment": "^2.18.1",
+    "pug": "^2.0.0-rc.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiDK/JSProject4Learn.git"
+  },
+  "author": "Dakun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiDK/JSProject4Learn/issues"
+  },
+  "homepage": "https://github.com/NiDK/JSProject4Learn#readme"
+}
